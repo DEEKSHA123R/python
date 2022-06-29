@@ -1,0 +1,13 @@
+b=[1,2,3]
+print(b)
+print(len(b))
+print(max(b))
+print(min(b))
+y=(1,2,3,4,5,"deeksha")
+print(y[5])
+y={1,2,3,5,7,"hello"}
+y.remove(2)
+print(y)
+x={'a':1,'b':2}
+x.update({'c':5})
+print(x.get(1,3))
